@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/5a68d2ae-8e06-4337-947e-ac22dd9614cc/resourceGroups/richardb79-azure-demo1-rg/providers/Microsoft.Web/sites/richardb79-azure-demo",
+    "appService.deploySubpath": "."
+}
